@@ -1,5 +1,7 @@
 # Kanditutkielma (12/2021)
 
+[Käyttäjän manipulointi](https://github.com/tietotuomas/Kanditutkielma/blob/main/Aaltonen-Tuomas-K%C3%A4ytt%C3%A4j%C3%A4n-manipulointi.pdf)
+
 Käyttäjän manipulointi (social engineering) on tietoturvahyökkäyksen muoto, jossa järjestelmän
 tietoturva ohitetaan käyttäjän inhimillisiä heikkouksia hyväksikäyttämällä. Se on kasvava
 ongelma niin Suomessa kuin maailmanlaajuisestikin. Suurin osa käyttäjän manipuloinnin
